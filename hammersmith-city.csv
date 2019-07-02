@@ -1,30 +1,30 @@
-Tube Station,Longitude,Latitude
-Aldgate East Underground Station,-0.072384,51.515037
-Bromley-by-Bow Underground Station,-0.011538,51.524839
-Barbican Underground Station,-0.097993,51.520275
-Barking Underground Station,0.081053,51.539321
-Baker Street Underground Station,-0.15713,51.522883
-Bow Road Underground Station,-0.025128,51.52694
-East Ham Underground Station,0.051186,51.538948
-Edgware Road (Circle Line) Underground Station,-0.167832,51.519858
-Euston Square Underground Station,-0.135829,51.525604
-Farringdon Underground Station,-0.104913,51.520252
-Goldhawk Road Underground Station,-0.226715,51.502005
-Great Portland Street Underground Station,-0.144262,51.52384
-Hammersmith (H&C Line) Underground Station,-0.225033,51.493392
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-Ladbroke Grove Underground Station,-0.210391,51.517449
-Latimer Road Underground Station,-0.217799,51.513389
-Liverpool Street Underground Station,-0.083182,51.517372
-Mile End Underground Station,-0.03364,51.525122
-Moorgate Underground Station,-0.088322,51.518176
-Paddington (H&C Line)-Underground,-0.178306,51.518187
-Plaistow Underground Station,0.017451,51.531341
-Royal Oak Underground Station,-0.188748,51.519113
-Shepherd's Bush Market Underground Station,-0.226375,51.505579
-Stepney Green Underground Station,-0.046596,51.521858
-Upton Park Underground Station,0.035263,51.53534
-West Ham Underground Station,0.005055,51.528136
-Wood Lane Underground Station,-0.22453,51.509669
-Whitechapel Underground Station,-0.059971,51.519518
-Westbourne Park Underground Station,-0.201065,51.52111
+Station,Latitude,Longitude
+Aldgate East Underground Station,51.515037,-0.072384
+Bromley-by-Bow Underground Station,51.524839,-0.011538
+Barbican Underground Station,51.520275,-0.097993
+Barking Underground Station,51.539321,0.081053
+Baker Street Underground Station,51.522883,-0.15713
+Bow Road Underground Station,51.52694,-0.025128
+East Ham Underground Station,51.538948,0.051186
+Edgware Road (Circle Line) Underground Station,51.519858,-0.167832
+Euston Square Underground Station,51.525604,-0.135829
+Farringdon Underground Station,51.520252,-0.104913
+Goldhawk Road Underground Station,51.502005,-0.226715
+Great Portland Street Underground Station,51.52384,-0.144262
+Hammersmith (H&C Line) Underground Station,51.493392,-0.225033
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+Ladbroke Grove Underground Station,51.517449,-0.210391
+Latimer Road Underground Station,51.513389,-0.217799
+Liverpool Street Underground Station,51.517372,-0.083182
+Mile End Underground Station,51.525122,-0.03364
+Moorgate Underground Station,51.518176,-0.088322
+Paddington (H&C Line)-Underground,51.518187,-0.178306
+Plaistow Underground Station,51.531341,0.017451
+Royal Oak Underground Station,51.519113,-0.188748
+Shepherd's Bush Market Underground Station,51.505579,-0.226375
+Stepney Green Underground Station,51.521858,-0.046596
+Upton Park Underground Station,51.53534,0.035263
+West Ham Underground Station,51.528136,0.005055
+Wood Lane Underground Station,51.509669,-0.22453
+Whitechapel Underground Station,51.519518,-0.059971
+Westbourne Park Underground Station,51.52111,-0.201065

@@ -1,54 +1,54 @@
-Tube Station,Longitude,Latitude
-Acton Town Underground Station,-0.280462,51.503057
-Alperton Underground Station,-0.29961,51.540627
-Arnos Grove Underground Station,-0.133062,51.616446
-Arsenal Underground Station,-0.107457,51.558655
-Bounds Green Underground Station,-0.124235,51.607034
-Boston Manor Underground Station,-0.324939,51.495635
-Barons Court Underground Station,-0.213427,51.490311
-Caledonian Road Underground Station,-0.118493,51.548519
-Covent Garden Underground Station,-0.124436,51.513093
-Cockfosters Underground Station,-0.149171,51.65152
-Eastcote Underground Station,-0.397373,51.576506
-Ealing Common Underground Station,-0.288265,51.51014
-Earl's Court Underground Station,-0.193378,51.492063
-Finsbury Park Underground Station,-0.106825,51.564158
-Green Park Underground Station,-0.142787,51.506947
-Gloucester Road Underground Station,-0.182658,51.494316
-Holborn Underground Station,-0.120475,51.51758
-Hillingdon Underground Station,-0.449828,51.553715
-Hatton Cross Underground Station,-0.423191,51.466747
-Hyde Park Corner Underground Station,-0.152441,51.503035
-Heathrow Terminal 4 Underground Station,-0.445771,51.458524
-Heathrow Terminal 5 Underground Station,-0.49056,51.470052
-Heathrow Terminals 2 & 3 Underground Station,-0.452265,51.471235
-Hammersmith (Dist&Picc Line) Underground Station,-0.22362,51.4923
-Hounslow Central Underground Station,-0.366578,51.471295
-Hounslow East Underground Station,-0.356474,51.473213
-Hounslow West Underground Station,-0.386544,51.473469
-Holloway Road Underground Station,-0.113244,51.552697
-Ickenham Underground Station,-0.442001,51.561992
-Knightsbridge Underground Station,-0.160508,51.501669
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-Leicester Square Underground Station,-0.128426,51.511386
-Manor House Underground Station,-0.096118,51.570738
-North Ealing Underground Station,-0.288868,51.517505
-Northfields Underground Station,-0.314719,51.499319
-Oakwood Underground Station,-0.132182,51.647726
-Osterley Underground Station,-0.352224,51.481274
-Piccadilly Circus Underground Station,-0.133798,51.51005
-Park Royal Underground Station,-0.284341,51.527123
-Ruislip Manor Underground Station,-0.412973,51.573202
-Ruislip Underground Station,-0.421898,51.571354
-Russell Square Underground Station,-0.124285,51.523073
-Rayners Lane Underground Station,-0.371127,51.575147
-South Ealing Underground Station,-0.307424,51.501003
-Southgate Underground Station,-0.127816,51.632315
-South Harrow Underground Station,-0.352492,51.564888
-South Kensington Underground Station,-0.174138,51.494094
-Sudbury Hill Underground Station,-0.336435,51.556946
-Sudbury Town Underground Station,-0.315745,51.550815
-Turnham Green Underground Station,-0.254555,51.495148
-Turnpike Lane Underground Station,-0.102953,51.590272
-Uxbridge Underground Station,-0.477949,51.546565
-Wood Green Underground Station,-0.109886,51.597479
+Station,Latitude,Longitude
+Acton Town Underground Station,51.503057,-0.280462
+Alperton Underground Station,51.540627,-0.29961
+Arnos Grove Underground Station,51.616446,-0.133062
+Arsenal Underground Station,51.558655,-0.107457
+Bounds Green Underground Station,51.607034,-0.124235
+Boston Manor Underground Station,51.495635,-0.324939
+Barons Court Underground Station,51.490311,-0.213427
+Caledonian Road Underground Station,51.548519,-0.118493
+Covent Garden Underground Station,51.513093,-0.124436
+Cockfosters Underground Station,51.65152,-0.149171
+Eastcote Underground Station,51.576506,-0.397373
+Ealing Common Underground Station,51.51014,-0.288265
+Earl's Court Underground Station,51.492063,-0.193378
+Finsbury Park Underground Station,51.564158,-0.106825
+Green Park Underground Station,51.506947,-0.142787
+Gloucester Road Underground Station,51.494316,-0.182658
+Holborn Underground Station,51.51758,-0.120475
+Hillingdon Underground Station,51.553715,-0.449828
+Hatton Cross Underground Station,51.466747,-0.423191
+Hyde Park Corner Underground Station,51.503035,-0.152441
+Heathrow Terminal 4 Underground Station,51.458524,-0.445771
+Heathrow Terminal 5 Underground Station,51.470052,-0.49056
+Heathrow Terminals 2 & 3 Underground Station,51.471235,-0.452265
+Hammersmith (Dist&Picc Line) Underground Station,51.4923,-0.22362
+Hounslow Central Underground Station,51.471295,-0.366578
+Hounslow East Underground Station,51.473213,-0.356474
+Hounslow West Underground Station,51.473469,-0.386544
+Holloway Road Underground Station,51.552697,-0.113244
+Ickenham Underground Station,51.561992,-0.442001
+Knightsbridge Underground Station,51.501669,-0.160508
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+Leicester Square Underground Station,51.511386,-0.128426
+Manor House Underground Station,51.570738,-0.096118
+North Ealing Underground Station,51.517505,-0.288868
+Northfields Underground Station,51.499319,-0.314719
+Oakwood Underground Station,51.647726,-0.132182
+Osterley Underground Station,51.481274,-0.352224
+Piccadilly Circus Underground Station,51.51005,-0.133798
+Park Royal Underground Station,51.527123,-0.284341
+Ruislip Manor Underground Station,51.573202,-0.412973
+Ruislip Underground Station,51.571354,-0.421898
+Russell Square Underground Station,51.523073,-0.124285
+Rayners Lane Underground Station,51.575147,-0.371127
+South Ealing Underground Station,51.501003,-0.307424
+Southgate Underground Station,51.632315,-0.127816
+South Harrow Underground Station,51.564888,-0.352492
+South Kensington Underground Station,51.494094,-0.174138
+Sudbury Hill Underground Station,51.556946,-0.336435
+Sudbury Town Underground Station,51.550815,-0.315745
+Turnham Green Underground Station,51.495148,-0.254555
+Turnpike Lane Underground Station,51.590272,-0.102953
+Uxbridge Underground Station,51.546565,-0.477949
+Wood Green Underground Station,51.597479,-0.109886

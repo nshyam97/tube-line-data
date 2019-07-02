@@ -1,36 +1,36 @@
-Tube Station,Longitude,Latitude
-Aldgate Underground Station,-0.075689,51.514246
-Amersham Underground Station,-0.607714,51.674126
-Barbican Underground Station,-0.097993,51.520275
-Baker Street Underground Station,-0.15713,51.522883
-Chalfont & Latimer Underground Station,-0.560689,51.667985
-Chesham Underground Station,-0.611247,51.705208
-Croxley Underground Station,-0.441718,51.647044
-Chorleywood Underground Station,-0.518461,51.654358
-Eastcote Underground Station,-0.397373,51.576506
-Euston Square Underground Station,-0.135829,51.525604
-Farringdon Underground Station,-0.104913,51.520252
-Finchley Road Underground Station,-0.179845,51.546825
-Great Portland Street Underground Station,-0.144262,51.52384
-Hillingdon Underground Station,-0.449828,51.553715
-Harrow-on-the-Hill Underground Station,-0.337225,51.579195
-Ickenham Underground Station,-0.442001,51.561992
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-Liverpool Street Underground Station,-0.083182,51.517372
-Moorgate Underground Station,-0.088322,51.518176
-Moor Park Underground Station,-0.432454,51.629845
-North Harrow Underground Station,-0.362408,51.584872
-Northwick Park Underground Station,-0.318056,51.578481
-Northwood Underground Station,-0.423829,51.611053
-Northwood Hills Underground Station,-0.409464,51.600572
-Pinner Underground Station,-0.381161,51.592901
-Preston Road Underground Station,-0.295107,51.571972
-Rickmansworth Underground Station,-0.473703,51.640207
-Ruislip Manor Underground Station,-0.412973,51.573202
-Ruislip Underground Station,-0.421898,51.571354
-Rayners Lane Underground Station,-0.371127,51.575147
-Uxbridge Underground Station,-0.477949,51.546565
-Watford Underground Station,-0.417377,51.657446
-West Harrow Underground Station,-0.3534,51.57971
-Willesden Green Underground Station,-0.221537,51.549146
-Wembley Park Underground Station,-0.279262,51.563198
+Station,Latitude,Longitude
+Aldgate Underground Station,51.514246,-0.075689
+Amersham Underground Station,51.674126,-0.607714
+Barbican Underground Station,51.520275,-0.097993
+Baker Street Underground Station,51.522883,-0.15713
+Chalfont & Latimer Underground Station,51.667985,-0.560689
+Chesham Underground Station,51.705208,-0.611247
+Croxley Underground Station,51.647044,-0.441718
+Chorleywood Underground Station,51.654358,-0.518461
+Eastcote Underground Station,51.576506,-0.397373
+Euston Square Underground Station,51.525604,-0.135829
+Farringdon Underground Station,51.520252,-0.104913
+Finchley Road Underground Station,51.546825,-0.179845
+Great Portland Street Underground Station,51.52384,-0.144262
+Hillingdon Underground Station,51.553715,-0.449828
+Harrow-on-the-Hill Underground Station,51.579195,-0.337225
+Ickenham Underground Station,51.561992,-0.442001
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+Liverpool Street Underground Station,51.517372,-0.083182
+Moorgate Underground Station,51.518176,-0.088322
+Moor Park Underground Station,51.629845,-0.432454
+North Harrow Underground Station,51.584872,-0.362408
+Northwick Park Underground Station,51.578481,-0.318056
+Northwood Underground Station,51.611053,-0.423829
+Northwood Hills Underground Station,51.600572,-0.409464
+Pinner Underground Station,51.592901,-0.381161
+Preston Road Underground Station,51.571972,-0.295107
+Rickmansworth Underground Station,51.640207,-0.473703
+Ruislip Manor Underground Station,51.573202,-0.412973
+Ruislip Underground Station,51.571354,-0.421898
+Rayners Lane Underground Station,51.575147,-0.371127
+Uxbridge Underground Station,51.546565,-0.477949
+Watford Underground Station,51.657446,-0.417377
+West Harrow Underground Station,51.57971,-0.3534
+Willesden Green Underground Station,51.549146,-0.221537
+Wembley Park Underground Station,51.563198,-0.279262

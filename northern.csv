@@ -1,51 +1,51 @@
-Tube Station,Longitude,Latitude
-Archway Underground Station,-0.134819,51.565478
-Angel Underground Station,-0.105992,51.532796
-Balham Underground Station,-0.152997,51.443288
-Bank Underground Station,-0.088712,51.513335
-Borough Underground Station,-0.09337,51.501199
-Burnt Oak Underground Station,-0.264048,51.602774
-Brent Cross Underground Station,-0.213622,51.57665
-Belsize Park Underground Station,-0.164648,51.550311
-Chalk Farm Underground Station,-0.153388,51.544118
-Charing Cross Underground Station,-0.127277,51.50741
-Colindale Underground Station,-0.249919,51.595424
-Clapham Common Underground Station,-0.138317,51.461742
-Clapham North Underground Station,-0.130016,51.465135
-Clapham South Underground Station,-0.147582,51.452654
-Colliers Wood Underground Station,-0.178086,51.41816
-Camden Town Underground Station,-0.14274,51.539292
-Elephant & Castle Underground Station,-0.100606,51.494536
-East Finchley Underground Station,-0.165012,51.587131
-Edgware Underground Station,-0.274928,51.613653
-Embankment Underground Station,-0.122666,51.507058
-Euston Underground Station,-0.131846,51.527824
-Finchley Central Underground Station,-0.192527,51.600921
-Goodge Street Underground Station,-0.134361,51.520599
-Golders Green Underground Station,-0.194039,51.572259
-High Barnet Underground Station,-0.194298,51.650541
-Hendon Central Underground Station,-0.226424,51.583301
-Highgate Underground Station,-0.145857,51.577532
-Hampstead Underground Station,-0.177464,51.556239
-Kennington Underground Station,-0.105963,51.488337
-Kentish Town Underground Station,-0.140733,51.550312
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-London Bridge Underground Station,-0.088873,51.505721
-Leicester Square Underground Station,-0.128426,51.511386
-Morden Underground Station,-0.194839,51.402142
-Moorgate Underground Station,-0.088322,51.518176
-Mill Hill East Underground Station,-0.209986,51.608229
-Mornington Crescent Underground Station,-0.138789,51.534679
-Old Street Underground Station,-0.08777,51.525864
-Oval Underground Station,-0.112439,51.48185
-Stockwell Underground Station,-0.122644,51.472184
-South Wimbledon Underground Station,-0.192005,51.415309
-Totteridge & Whetstone Underground Station,-0.17921,51.630597
-Tooting Bec Underground Station,-0.159736,51.435678
-Tooting Broadway Underground Station,-0.168374,51.42763
-Tottenham Court Road Underground Station,-0.13041,51.516426
-Tufnell Park Underground Station,-0.138433,51.556822
-West Finchley Underground Station,-0.188362,51.609426
-Waterloo Underground Station,-0.11478,51.503299
-Woodside Park Underground Station,-0.18542,51.618014
-Warren Street Underground Station,-0.138321,51.524951
+Station,Latitude,Longitude
+Archway Underground Station,51.565478,-0.134819
+Angel Underground Station,51.532796,-0.105992
+Balham Underground Station,51.443288,-0.152997
+Bank Underground Station,51.513335,-0.088712
+Borough Underground Station,51.501199,-0.09337
+Burnt Oak Underground Station,51.602774,-0.264048
+Brent Cross Underground Station,51.57665,-0.213622
+Belsize Park Underground Station,51.550311,-0.164648
+Chalk Farm Underground Station,51.544118,-0.153388
+Charing Cross Underground Station,51.50741,-0.127277
+Colindale Underground Station,51.595424,-0.249919
+Clapham Common Underground Station,51.461742,-0.138317
+Clapham North Underground Station,51.465135,-0.130016
+Clapham South Underground Station,51.452654,-0.147582
+Colliers Wood Underground Station,51.41816,-0.178086
+Camden Town Underground Station,51.539292,-0.14274
+Elephant & Castle Underground Station,51.494536,-0.100606
+East Finchley Underground Station,51.587131,-0.165012
+Edgware Underground Station,51.613653,-0.274928
+Embankment Underground Station,51.507058,-0.122666
+Euston Underground Station,51.527824,-0.131846
+Finchley Central Underground Station,51.600921,-0.192527
+Goodge Street Underground Station,51.520599,-0.134361
+Golders Green Underground Station,51.572259,-0.194039
+High Barnet Underground Station,51.650541,-0.194298
+Hendon Central Underground Station,51.583301,-0.226424
+Highgate Underground Station,51.577532,-0.145857
+Hampstead Underground Station,51.556239,-0.177464
+Kennington Underground Station,51.488337,-0.105963
+Kentish Town Underground Station,51.550312,-0.140733
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+London Bridge Underground Station,51.505721,-0.088873
+Leicester Square Underground Station,51.511386,-0.128426
+Morden Underground Station,51.402142,-0.194839
+Moorgate Underground Station,51.518176,-0.088322
+Mill Hill East Underground Station,51.608229,-0.209986
+Mornington Crescent Underground Station,51.534679,-0.138789
+Old Street Underground Station,51.525864,-0.08777
+Oval Underground Station,51.48185,-0.112439
+Stockwell Underground Station,51.472184,-0.122644
+South Wimbledon Underground Station,51.415309,-0.192005
+Totteridge & Whetstone Underground Station,51.630597,-0.17921
+Tooting Bec Underground Station,51.435678,-0.159736
+Tooting Broadway Underground Station,51.42763,-0.168374
+Tottenham Court Road Underground Station,51.516426,-0.13041
+Tufnell Park Underground Station,51.556822,-0.138433
+West Finchley Underground Station,51.609426,-0.188362
+Waterloo Underground Station,51.503299,-0.11478
+Woodside Park Underground Station,51.618014,-0.18542
+Warren Street Underground Station,51.524951,-0.138321

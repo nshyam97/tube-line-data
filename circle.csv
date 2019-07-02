@@ -1,37 +1,37 @@
-Tube Station,Longitude,Latitude
-Aldgate Underground Station,-0.075689,51.514246
-Barbican Underground Station,-0.097993,51.520275
-Blackfriars Underground Station,-0.103659,51.511581
-Baker Street Underground Station,-0.15713,51.522883
-Bayswater Underground Station,-0.187938,51.512284
-Cannon Street Underground Station,-0.090432,51.51151
-Embankment Underground Station,-0.122666,51.507058
-Edgware Road (Circle Line) Underground Station,-0.167832,51.519858
-Euston Square Underground Station,-0.135829,51.525604
-Farringdon Underground Station,-0.104913,51.520252
-Goldhawk Road Underground Station,-0.226715,51.502005
-Great Portland Street Underground Station,-0.144262,51.52384
-Gloucester Road Underground Station,-0.182658,51.494316
-Hammersmith (H&C Line) Underground Station,-0.225033,51.493392
-High Street Kensington Underground Station,-0.192792,51.501055
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-Ladbroke Grove Underground Station,-0.210391,51.517449
-Latimer Road Underground Station,-0.217799,51.513389
-Liverpool Street Underground Station,-0.083182,51.517372
-Moorgate Underground Station,-0.088322,51.518176
-Monument Underground Station,-0.085969,51.5107
-Mansion House Underground Station,-0.094009,51.512117
-Notting Hill Gate Underground Station,-0.196104,51.509128
-Paddington Underground Station,-0.175689,51.516581
-Paddington (H&C Line)-Underground,-0.178306,51.518187
-Royal Oak Underground Station,-0.188748,51.519113
-Shepherd's Bush Market Underground Station,-0.226375,51.505579
-St. James's Park Underground Station,-0.133608,51.499544
-South Kensington Underground Station,-0.174138,51.494094
-Sloane Square Underground Station,-0.156377,51.49227
-Temple Underground Station,-0.11426,51.511006
-Tower Hill Underground Station,-0.076546,51.509971
-Victoria Underground Station,-0.143102,51.496359
-Wood Lane Underground Station,-0.22453,51.509669
-Westminster Underground Station,-0.124861,51.50132
-Westbourne Park Underground Station,-0.201065,51.52111
+Station,Latitude,Longitude
+Aldgate Underground Station,51.514246,-0.075689
+Barbican Underground Station,51.520275,-0.097993
+Blackfriars Underground Station,51.511581,-0.103659
+Baker Street Underground Station,51.522883,-0.15713
+Bayswater Underground Station,51.512284,-0.187938
+Cannon Street Underground Station,51.51151,-0.090432
+Embankment Underground Station,51.507058,-0.122666
+Edgware Road (Circle Line) Underground Station,51.519858,-0.167832
+Euston Square Underground Station,51.525604,-0.135829
+Farringdon Underground Station,51.520252,-0.104913
+Goldhawk Road Underground Station,51.502005,-0.226715
+Great Portland Street Underground Station,51.52384,-0.144262
+Gloucester Road Underground Station,51.494316,-0.182658
+Hammersmith (H&C Line) Underground Station,51.493392,-0.225033
+High Street Kensington Underground Station,51.501055,-0.192792
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+Ladbroke Grove Underground Station,51.517449,-0.210391
+Latimer Road Underground Station,51.513389,-0.217799
+Liverpool Street Underground Station,51.517372,-0.083182
+Moorgate Underground Station,51.518176,-0.088322
+Monument Underground Station,51.5107,-0.085969
+Mansion House Underground Station,51.512117,-0.094009
+Notting Hill Gate Underground Station,51.509128,-0.196104
+Paddington Underground Station,51.516581,-0.175689
+Paddington (H&C Line)-Underground,51.518187,-0.178306
+Royal Oak Underground Station,51.519113,-0.188748
+Shepherd's Bush Market Underground Station,51.505579,-0.226375
+St. James's Park Underground Station,51.499544,-0.133608
+South Kensington Underground Station,51.494094,-0.174138
+Sloane Square Underground Station,51.49227,-0.156377
+Temple Underground Station,51.511006,-0.11426
+Tower Hill Underground Station,51.509971,-0.076546
+Victoria Underground Station,51.496359,-0.143102
+Wood Lane Underground Station,51.509669,-0.22453
+Westminster Underground Station,51.50132,-0.124861
+Westbourne Park Underground Station,51.52111,-0.201065

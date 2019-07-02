@@ -1,17 +1,17 @@
-Tube Station,Longitude,Latitude
-Blackhorse Road Underground Station,-0.04115,51.586919
-Brixton Underground Station,-0.114888,51.462618
-Euston Underground Station,-0.131846,51.527824
-Finsbury Park Underground Station,-0.106825,51.564158
-Green Park Underground Station,-0.142787,51.506947
-Highbury & Islington Underground Station,-0.103324,51.54635
-King's Cross St. Pancras Underground Station,-0.123194,51.530663
-Oxford Circus Underground Station,-0.141903,51.515224
-Pimlico Underground Station,-0.133761,51.489097
-Stockwell Underground Station,-0.122644,51.472184
-Seven Sisters Underground Station,-0.072584,51.58333
-Tottenham Hale Underground Station,-0.060241,51.588108
-Victoria Underground Station,-0.143102,51.496359
-Vauxhall Underground Station,-0.124204,51.485743
-Warren Street Underground Station,-0.138321,51.524951
-Walthamstow Central Underground Station,-0.019885,51.582965
+Station,Latitude,Longitude
+Blackhorse Road Underground Station,51.586919,-0.04115
+Brixton Underground Station,51.462618,-0.114888
+Euston Underground Station,51.527824,-0.131846
+Finsbury Park Underground Station,51.564158,-0.106825
+Green Park Underground Station,51.506947,-0.142787
+Highbury & Islington Underground Station,51.54635,-0.103324
+King's Cross St. Pancras Underground Station,51.530663,-0.123194
+Oxford Circus Underground Station,51.515224,-0.141903
+Pimlico Underground Station,51.489097,-0.133761
+Stockwell Underground Station,51.472184,-0.122644
+Seven Sisters Underground Station,51.58333,-0.072584
+Tottenham Hale Underground Station,51.588108,-0.060241
+Victoria Underground Station,51.496359,-0.143102
+Vauxhall Underground Station,51.485743,-0.124204
+Warren Street Underground Station,51.524951,-0.138321
+Walthamstow Central Underground Station,51.582965,-0.019885
